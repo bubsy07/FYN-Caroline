@@ -237,7 +237,7 @@ class remember {
 
 //animal clicked
     getCardType(card) {
-               return card.getElementsByClassName('animal-img')[0].src;
+               return card.getElementsByClassName('photo-img')[0].src;
                
     }
 
